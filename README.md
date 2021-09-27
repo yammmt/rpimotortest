@@ -1,6 +1,6 @@
 # rpimotortest
 
-Small applications using [RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib)
+Small applications using Nema stepper motor and L298N motor driver.
 
 ## Environment
 
@@ -63,4 +63,6 @@ And run any file with your Python.
 
 ## References
 
+- [RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib)
+  - This repository is based on this repository
 - [Qiita: [Raspberry Pi] ラズパイでステッピングモータ制御](https://qiita.com/zoo_dj/items/0c7f632967e266bac64a) (ja)
